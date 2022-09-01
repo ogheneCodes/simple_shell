@@ -6,7 +6,7 @@
 	2. Joshua Alana
 
 
-#Learning Objectives
+###	Learning Objectives
 
 + Who designed and implemented the original Unix operating system
 
